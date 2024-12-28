@@ -11,6 +11,6 @@ public class LizterFurniture implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Testing!");
 	}
 }
